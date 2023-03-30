@@ -1,0 +1,86 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merryweather', serif;
+    
+}
+
+h1 {
+    font-size: 562.5%;
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+    color: #4e6e81;
+    
+}
+
+p {
+    font-size: 20px;
+    color: #545454;
+
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color:#4e6e81;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color:#4e6e81;
+}
+
+.top-container {
+    background-color: #fff;
+    position: relative;
+    padding-top: 100px;
+    background-color: #e4dccf;
+   
+}
+
+.middle-container {
+    
+    padding-top: 100px;
+    
+    
+
+}
+
+.bottom-container {
+    padding-top: 50px;
+    
+}
+  
+
+
+.top-cloud {
+    position: absolute;
+    right: 650px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 650px;
+    bottom: 300px;
+}
+
+.mountain {
+    position: abosolute;
+    top: 300px;
+}
+
+.computer {
+    width: 300px;
+}
+
+.gaming {
+    width: 300px;
+}
+
+.my-image {
+    width: 200px;
+}
+
+.rights {
+    font-size: 15px;
+}
